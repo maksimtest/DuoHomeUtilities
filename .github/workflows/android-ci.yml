@@ -1,4 +1,4 @@
-name: Android CI(version2)
+name: Android CI(version3)
 
 on:
   push:
